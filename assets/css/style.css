@@ -1,0 +1,18 @@
+/* Import Font Google */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
+
+/* Variabel CSS */
+
+:root{
+    
+    --header-height: 3rem;
+
+    /* Color */
+    /* Pengaturan warna favorit */
+    --hue-color: ;
+
+    /* mode warna HSL */
+    --first-color: hsl(250, 71%, 66%);
+    --first-color-second:;
+
+}
