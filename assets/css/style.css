@@ -13,6 +13,6 @@
 
     /* mode warna HSL */
     --first-color: hsl(250, 71%, 66%);
-    --first-color-second:;
+    --first-color-second:hsl(113, 82%, 63%);
 
 }
